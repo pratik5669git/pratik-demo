@@ -1,2 +1,2 @@
 # pratik-demo
-Author _ Pratik kumar.
+Author _ Pratik from cgu
